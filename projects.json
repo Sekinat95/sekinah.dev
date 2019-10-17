@@ -1,0 +1,65 @@
+[
+  {
+    "title":"anime search tool",
+    "date_finished":"9th Oct, 2019",
+    "image":"./img/projects/anime.png",
+    "synopsis":"this is an anime search tool. it fetches animes based on selected categories",
+    "tech":["html5","css3","bootstrap4","es6"],
+    "github_url":"https://sekinat95.github.io/animesearch/"
+
+  },
+  {
+    "title":"Tracalorie",
+    "date_finished":"Oct, 2019",
+    "image":"./img/projects/tracalorie.png",
+    "synopsis":"this is the UI for a calorie tracking app. Its part of my JS design patterns study",
+    "tech":["html5","css3","bootstrap4","es6"],
+    "github_url":"https://sekinat95.github.io/Tracalorie/"
+
+  },
+  {
+    "title":"Book Management App",
+    "date_finished":"29th Sept, 2019",
+    "image":"./img/projects/book-log-ui.png",
+    "synopsis":"this is the UI of a book management app for people who have more books than they can keep track of",
+    "tech":["html5","css3","materialize css","es6"],
+    "github_url":"https://sekinat95.github.io/book-app-UI/"
+
+  },
+  {
+    "title":"Github Finder App",
+    "date_finished":"Sept, 2019",
+    "image":"./img/projects/github-finder.png",
+    "synopsis":"this is a github profile search tool. its parts of my fetch API study",
+    "tech":["html5","css3","bootstrap4","es6"],
+    "github_url":"https://sekinat95.github.io/github-finder/"
+
+  },
+  {
+    "title":"Number Guesser Game",
+    "date_finished":"Sept, 2019",
+    "image":"./img/projects/number-guesser.png",
+    "synopsis":"this is a number guesser game. it is part of my JS fundamentals study",
+    "tech":["html5","css3","skeleton","es6"],
+    "github_url":"https://sekinat95.github.io/number-guesser/"
+
+  },
+  {
+    "title":"Book List",
+    "date_finished":"Sept, 2019",
+    "image":"./img/projects/book-list.png",
+    "synopsis":"this is yet another book app UI. its a book listing app. its part of my ES6 study",
+    "tech":["html5","css3","skeleton","es6"],
+    "github_url":"https://sekinat95.github.io/book-list/"
+
+  },
+  {
+    "title":"Loan calculator",
+    "date_finished":"Sept, 2019",
+    "image":"./img/projects/loan-calc.png",
+    "synopsis":"this is a loan calculator. Its part of my JS fundamentals plus user experience study",
+    "tech":["html5","css3","bootstrap4","es6"],
+    "github_url":"https://sekinat95.github.io/loan-calculator/"
+
+  }
+]
