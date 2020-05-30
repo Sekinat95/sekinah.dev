@@ -1,5 +1,14 @@
 [
   {
+    "title":"quirky quotes app",
+    "date_finished":"30th May, 2020",
+    "image":"./img/projects/quirky-quotes.PNG",
+    "synopsis":"this is a store for all the quirky quotes of rolabi wizenard, from the wizenard series",
+    "tech":["nodejs", "passport", "ejs", "express", "bootstrap4"],
+    "github_url":"https://quirkyquotes.herokuapp.com/"
+
+  },
+  {
     "title":"anime search tool",
     "date_finished":"9th Oct, 2019",
     "image":"./img/projects/anime.png",
