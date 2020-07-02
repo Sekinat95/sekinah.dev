@@ -5,7 +5,7 @@
     "image": "./img/projects/roadmaster.PNG",
     "synopsis": "an accident report app that allows road accidents to be reported in real time to relevant responders asap",
     "tech": ["nodejs", "reactjs", "es6", "css"],
-    "github_url": "https://roadmasterng.netlify.app/"
+    "github_url": "https://roadmaster3.netlify.app/"
   },
   {
     "title": "quirky quotes app",
